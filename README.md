@@ -4,8 +4,8 @@ Einleitung allgemein (Erklärungen zum ganzen M300-Projekt)
 # Inhaltsverszeichnis
 
 ## 10-Toolumgebungen 
-Text
-
+### GitHub Account
+Ein GitHub Account kann auf der offiziellen GitHub Webseite erstellt werden. Dort kann man sich Registrieren. 
 ## 20-Infrastruktur
 Text
 
