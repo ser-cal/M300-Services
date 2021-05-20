@@ -4,7 +4,7 @@ Einleitung allgemein (Erklärungen zum ganzen M300-Projekt)
 # Inhaltsverszeichnis
 
 ## 10-Toolumgebungen 
-Text
+Einträge (eigene Erkenntnisse während dem Bearbeiten dieses kapitels)
 
 ## 20-Infrastruktur
 Text
