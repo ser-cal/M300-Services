@@ -7,19 +7,19 @@ Einleitung allgemein (Erklärungen zum ganzen M300-Projekt)
 Einträge (eigene Erkenntnisse während dem Bearbeiten dieses kapitels)
 
 ## 20-Infrastruktur
-Text
+Eigene Ergänzungen erwünscht
 
 ## 35-Sicherheit 1
-Text
+Eigene Ergänzungen erwünscht
 
 ## 30-Container
-Text
+Eigene Ergänzungen erwünscht
 
 ## 35-Sicherheit 2
-Text
+Eigene Ergänzungen erwünscht
 
 ## 40-Container-Orchestrierung
-Text
+Eigene Ergänzungen erwünscht
 
 ## 50-Add-ons 
 Eigene Ergänzungen erwünscht
