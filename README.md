@@ -4,25 +4,25 @@ Einleitung allgemein (Erklärungen zum ganzen M300-Projekt)
 # Inhaltsverszeichnis
 
 ## 10-Toolumgebungen 
-Einträge (eigene Erkenntnisse während dem Bearbeiten dieses kapitels)
+Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 
 ## 20-Infrastruktur
-Eigene Ergänzungen erwünscht
+Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 
 ## 35-Sicherheit 1
-Eigene Ergänzungen erwünscht
+Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 
 ## 30-Container
-Eigene Ergänzungen erwünscht
+Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 
 ## 35-Sicherheit 2
-Eigene Ergänzungen erwünscht
+Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 
 ## 40-Container-Orchestrierung
-Eigene Ergänzungen erwünscht
+Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 
 ## 50-Add-ons 
-Eigene Ergänzungen erwünscht
+Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 
 ## 60-Reflexion
 Lernprozess festgehalten, Form frei wählbar)
