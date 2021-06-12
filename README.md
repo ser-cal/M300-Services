@@ -25,7 +25,7 @@ Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 Einträge (eigene Erkenntnisse während dem Bearbeiten dieses Kapitels)
 
 ## 60-Reflexion
-Lernprozess festgehalten, Form frei wählbar)
+Lernprozess festgehalten (Form frei wählbar)
 
 
 - - -
